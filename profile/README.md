@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source srcset="https://github.com/better-auth/better-auth/blob/5e7b55c06ce472e81b34c5f57115c2c613f156c7/banner-dark.png" media="(prefers-color-scheme: dark)">
-    <source srcset="https://github.com/better-auth/better-auth/blob/5e7b55c06ce472e81b34c5f57115c2c613f156c7/banner.png" media="(prefers-color-scheme: light)">
+    <source srcset="https://github.com/OctopiAI/.github/blob/main/banner-dark.png" media="(prefers-color-scheme: dark)">
+    <source srcset="https://github.com/OctopiAI/.github/blob/main/banner.png" media="(prefers-color-scheme: light)">
     <img src="../banner.png" alt="Octopi AI Logo">
   </picture>
   <h2 align="center">
